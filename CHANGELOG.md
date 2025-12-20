@@ -1,3 +1,7 @@
+## 2025-12-20
+
+- Start using 'mini.cmdline'.
+
 ## 2025-12-16
 
 - Update 'nvim-treesitter/nvim-treesitter' plugin to not explicitly use `main` branch as it is now the default.
